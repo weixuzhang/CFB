@@ -1,0 +1,16 @@
+torch
+transformers
+accelerate
+evaluate
+rouge-score
+bert-score
+datasets
+tqdm
+numpy
+pandas
+scikit-learn
+ipdb
+sentencepiece
+nltk
+tensorboard
+termcolor

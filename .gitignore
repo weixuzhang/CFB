@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.cache/
+*.out
+*.log
+
+# generated at runtime, not part of the release
+output/
+results/
